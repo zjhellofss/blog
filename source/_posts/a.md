@@ -2,6 +2,9 @@
 title: 自制深度学习推理框架-第一课-项目预览和环境配置
 mathjax: true
 ---
+##  视频链接
+[从零自制深度学习推理框架：第一讲 项目预览和环境配置](https://www.bilibili.com/video/BV118411f7yM/?share_source=copy_web&vd_source=5aea6bd7f6d61b7c495e46b7d7aaaa99)
+## 课程信息
 > 本课程赞助方：`Datawhale`
 >
 > 作者：[傅莘莘](https://github.com/zjhellofss)

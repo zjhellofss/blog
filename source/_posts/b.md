@@ -5,6 +5,11 @@ tags:
 mathjax: true
 ---
 
+##  视频链接
+[从零自制深度学习推理框架：第二讲 张量(Tensor)的设计与实现](https://www.bilibili.com/video/BV1hN411k7q7/?share_source=copy_web&vd_source=5aea6bd7f6d61b7c495e46b7d7aaaa99)
+
+## 课程信息
+
 ![](b/dXqvgNI.png)
 
 ![](b/qO2yKaH.jpg)
